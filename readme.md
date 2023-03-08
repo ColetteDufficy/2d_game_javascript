@@ -1,14 +1,9 @@
+### JavaScript 2D Game
+
 Basic website starter
 This repository contains basic files to get you started with a HTML and Javascript website. No library, nothing fancy.
 
-TODO
-[x] Create a screen / canvas for our game
-[x] Draw a shape
-[x] make the shape move when we press a key
-[] create a winning screen
-[] create a winning condition and show the win screen
-[]
-What's in this project?
+## What's in this project?
 ← README.md: That's this file, where you can tell people what your cool website does and how you built it.
 
 ← index.html: This is the main HTML page for your site.
@@ -28,4 +23,9 @@ Download the files on your computer. On github, select Code -> Download Zip. Onc
 
 Once you are able to see the webpage in your browser, change the files to see how it changes.
 
-💥 Happy experimenting!
+TODO
+[x] Create a screen / canvas for our game
+[x] Draw a shape
+[x] make the shape move when we press a key
+[x] create a winning screen
+[x] create a winning condition and show the win screen
